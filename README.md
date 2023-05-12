@@ -126,6 +126,7 @@ if __name__ == '__main__':
 
 ## Ejercicio #3
 Escriba una función recursiva para calcular la operación de la potencia.
+
 ```pyhton
 # Definir la funcion
 def PotenciaRecursivo(n : int,p : int)-> int:
